@@ -2,10 +2,51 @@
                                                        
                                                       Introduction to Java
                                                       
-Java is a popular general-purpose programming language and computing platform. It is fast, reliable, and secure. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide.
+The Computer(Hardware) is quite dumb and incapable of independent thought or functionality  and in most cases we need it to perform a function or two,so with that logic we need to communicate with it ,therein the need for a conventional language both parties understand(The Computer and the User).
 
-Considering the number of Java developers, devices running Java, and companies adapting it, it's safe to say that Java will be around for many years to come.
+  There are more than 100 languages used in conversing with a computer and giving it list of instructions. One of the languages is what we   will be talking about in this course.
 
-This guide will provide everything you need to know about Java programming language before you learn it. More specifically, you will learn about features of Java programming, its applications, reasons to learn it, and how you can learn it the right way.
+         Java is a popular multi-purpose programming language. It is fast, reliable, and very secure. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide.
+
+Considering the number of Java developers, Java standalone systems,devices running Java, and companies adapting it(Banks and Fintechs mostly), it's safe to say that Java will be around for many years to come.
+
+This course will provide everything you need to know about Java programming language before you learn it. More specifically, you will learn about features of Java programming, its applications, reasons to learn it, and how you can learn it the right way.
+
+Before diving right into the course,its customary to know how it came to me.
+
+                                Advent of Java and why it was created
+
+In 1991, A team  called "Green Team" led by James Gosling at Sun Microsystems created a programming language for digital consumer devices.due to sentimental reasons,He named the language Oak,just because he had an Oak tree outside his office!
+
+The "Green Team" then demonstrated the use of the language with an interactive television. However, it was too advanced for the digital cable television at the time, and more suitable for a the internet which just started its rise then.
+
+Later, the language was renamed Green and finally renamed Java from Java coffee; hence the coffee-cup logo.
+
+Since C/C++ was popular back then, James Gosling designed the language with C/C++ style syntax, and philosophy "write once, run anywhere". After years, Sun Microsystems released the first public implementation of Java in 1995. It was announced that the Netscape Navigator Internet browser would incorporate Java technology.
+
+ Oracle Corporation then went on to aquire Sun's microsystem in 2010.
+ 
+                                        Features of Java programming language.
+                                        
+ 1.Java is platform independent
+ Java was designed with a philosophy in mind,the "WORA" (WRITE ONCE RUN ANYWERE).
+ what this basically means is that,as long as JVM exist in a device,it can run Java.no wonder Oracle claims more than 3 billion devices run Java.
+ 
+ 2.Java is OOP oriented
+ Java programming(Object Oriented programming)  follows a certain guildline that helps solve big problems by reducing it to smallers sets of Objects.
+ the benefit lies in your codebeing reusable, has design benefits, and makes code easier to maintain.
+ The OOP concepts are 
+ -polymorphism
+ -inheritance
+ -Abstraction 
+ -Encapsulation
+ 
+ 3.Java is secure
+
+The Java platform provides various features for security of Java applications. Some of the high-level features that Java handles are:
+
+- provides secure platform for developing and running applications
+- automatic memory management, reduces memory corruption and vulnerabilities
+- provides secure communication by protecting the integrity and privacy of data transmitted
                                                        
-                           
+            
